@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">callphone</string>
+    <string name="phoneNumInput">请输入手机号</string>
+    <string name="callThisNum">拨打此号码</string>
+</resources>
